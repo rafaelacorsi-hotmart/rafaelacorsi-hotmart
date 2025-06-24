@@ -1,8 +1,10 @@
-### Repos
-[![Heimdall]]([https://www.python.org/](https://github.com/Hotmart-Org/heimdall))
+### Projetos
+* [heimdall](https://github.com/Hotmart-Org/heimdall)
+* [heimdall-check](https://github.com/Hotmart-Org/heimdall-check)
+* [techdeck](https://github.com/Hotmart-Org/techdeck)
+* [heimdall-ingest](https://github.com/Hotmart-Org/heimdall-ingest)
 
 ### Tecnologias e Ferramentas
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
