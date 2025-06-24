@@ -1,6 +1,4 @@
-### Gráfico de Contribuições
-
-![Seu Gráfico de Contribuições do GitHub](https://github.com/SEU_USERNAME.png?size=400)
+Heimdall Team
 
 ### Tecnologias e Ferramentas
 
