@@ -3,6 +3,11 @@
 * [heimdall-check](https://github.com/Hotmart-Org/heimdall-check)
 * [techdeck](https://github.com/Hotmart-Org/techdeck)
 * [heimdall-ingest](https://github.com/Hotmart-Org/heimdall-ingest)
+* [astroflow](https://github.com/Hotmart-Org/astroflow)
+* [astroflow-runner](https://github.com/Hotmart-Org/astroflow-runner)
+* [astroflow-scheduler](https://github.com/Hotmart-Org/astroflow-scheduler)
+* [astroflow-api](https://github.com/Hotmart-Org/astroflow-api)
+* [astroflow-core](https://github.com/Hotmart-Org/astroflow-core)
 
 ### Tecnologias e Ferramentas
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
