@@ -8,6 +8,7 @@
 * [astroflow-scheduler](https://github.com/Hotmart-Org/astroflow-scheduler)
 * [astroflow-api](https://github.com/Hotmart-Org/astroflow-api)
 * [astroflow-core](https://github.com/Hotmart-Org/astroflow-core)
+* [dynamic-agent](https://github.com/Hotmart-Org/dynamic-agent)
 
 ### Tecnologias e Ferramentas
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
