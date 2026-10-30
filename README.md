@@ -9,6 +9,8 @@
 * [astroflow-api](https://github.com/Hotmart-Org/astroflow-api)
 * [astroflow-core](https://github.com/Hotmart-Org/astroflow-core)
 * [dynamic-agent](https://github.com/Hotmart-Org/dynamic-agent)
+* [ai-gateway](https://github.com/Hotmart-Org/ai-gateway)
+* [openmeter](https://github.com/Hotmart-Org/openmeter)
 
 ### Tecnologias e Ferramentas
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
